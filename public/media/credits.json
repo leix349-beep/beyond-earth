@@ -1,0 +1,162 @@
+{
+  "earth": {
+    "file": "/media/earth.jpg",
+    "title": "Most Amazing High Definition Image of Earth - Blue Marble 2012",
+    "credit": "GSFC",
+    "source": "https://images.nasa.gov/details/GSFC_20171208_Archive_e001386",
+    "description": "January 25, 2012  <b>*Updated February 2, 2012: According to Flickr, &quot;The western hemisphere Blue Marble 2012 image has rocketed up to over 3.1 million views making it one of the all time most viewed images on the site after only one week.&quot;</b>  A 'Blue Marble' image of the Earth taken from the VIIRS instrument aboard NASA's most recently launched Earth-observing satellite - Suomi NPP. This composite image uses a number of swaths of the Earth's surface taken on January 4, 2012. The NPP satellite was renamed 'Suomi NPP' on January 24, 2012 to honor the late Verner E. Suomi of the University of Wisconsin.   Suomi NPP is NASA's next Earth-observing research satellite. It is the first of a new generation of satellites that will observe many facets of our changing Earth.  Suomi NPP is carrying five instruments on board. The biggest and most important instrument is The Visible/Infrared Imager Radiometer Suite or VIIRS.   To read more about NASA's Suomi NPP go to: <a href=\"http://www.nasa.gov/npp\" rel=\"nofollow\">www.nasa.gov/npp</a>  Credit: NASA/NOAA/GSFC/Suomi NPP/VIIRS/Norman Kuring  <b><a href=\"http://www.nasa.gov/audience/formedia/features/MP_Photo_Guidelines.html\" rel=\"nofollow\">NASA image use policy.</a></b>  <b><a href=\"http://www.nasa.gov/centers/goddard/home/index.html\" rel=\"nofollow\">NASA Goddard Space Flight Center</a></b> enables NASA\u2019s mission through four scientific endeavors: Earth Science, Heliophysics, Solar System Exploration, and Astrophysics. Goddard plays a leading role in NASA\u2019s accomplishments by contributing compelling scientific knowledge to advance the Agency\u2019s mission.  <b>Follow us on <a href=\"http://twitter.com/NASAGoddardPix\" rel=\"nofollow\">Twitter</a></b>  <b>Like us on <a href=\"http://www.facebook.com/pages/Greenbelt-MD/NASA-Goddard/395013845897?ref=tsd\" rel=\"nofollow\">Facebook</a></b>  <b>Find us on <a href=\"http://instagrid.me/nasagoddard/?vm=grid\" rel=\"nofollow\">Instagram</a></b>"
+  },
+  "launch": {
+    "file": "/media/launch.jpg",
+    "title": "Liftoff of the Apollo 11 lunar landing mission",
+    "credit": "JSC",
+    "source": "https://images.nasa.gov/details/S69-39959",
+    "description": "S69-39959 (16 July 1969) --- The huge, 363-feet tall Apollo 11 (Spacecraft 107/Lunar Module 5/ Saturn 506) space vehicle is launched from Pad A, Launch Complex 39, Kennedy Space Center (KSC), at 9:32 a.m. (EDT), July 16, 1969.  Aboard the Apollo 11 spacecraft were astronauts Neil A. Armstrong, commander; Michael Collins, command module pilot; and Edwin E. Aldrin Jr., lunar module pilot. Apollo 11 is the United States' first lunar landing mission. This view of the liftoff was taken by a camera mounted on the mobile launch tower. While astronauts Armstrong and Aldrin descend in the Lunar Module (LM) \"Eagle\" to explore the Sea of Tranquility region of the moon, astronaut Collins will remain with the Command and Service Modules (CSM) \"Columbia\" in lunar orbit. Photo credit: NASA"
+  },
+  "sputnik": {
+    "file": "/media/sputnik.jpg",
+    "title": "Sputnik 1 replica at the Museum of Space and Missile Technology",
+    "credit": "Andrew Butko",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B9_%D0%B2_%D0%BC%D0%B8%D1%80%D0%B5_%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D1%81%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA_%D0%97%D0%B5%D0%BC%D0%BB%D0%B8.jpg"
+  },
+  "explorer": {
+    "file": "/media/explorer.jpg",
+    "title": "Explorer 1",
+    "credit": "JPL",
+    "source": "https://images.nasa.gov/details/PIA04601",
+    "description": "America first satellite, Explorer 1. America joined the space race with the launch of this small, but important spacecraft.  http://photojournal.jpl.nasa.gov/catalog/PIA04601"
+  },
+  "vostok": {
+    "file": "/media/vostok.jpg",
+    "title": "Vostok 1 recovered capsule at RKK Energiya Museum",
+    "credit": "Errabee",
+    "license": "CC BY-SA 2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:Vostok_1_after_landing.jpg"
+  },
+  "telstar": {
+    "file": "/media/telstar.jpg",
+    "title": "Deployment of the Telstar communications satellite",
+    "credit": "JSC",
+    "source": "https://images.nasa.gov/details/41d-037-050",
+    "description": "41D-37-050 (1 Sept 1984) --- Telstar, the third of three satellites to be placed into space via the Earth-orbiting Discovery, departs from the cargo bay of the manned vehicle during 41-D's third day in space.  The scene was photographed at 9:35 a.m. (CDT), Sept. 1, 1984, with a 70mm handheld hasselblad camera aimed through the windows on the flight deck.  Heavy clouds cover much of the water and land mass of Earth in the background."
+  },
+  "saturn": {
+    "file": "/media/saturn.jpg",
+    "title": "Saturn Apollo Program",
+    "credit": "MSFC",
+    "source": "https://images.nasa.gov/details/6864722",
+    "description": "The second Saturn V launch vehicle (SA-502) for the Apollo 6 mission lifted off from the Kennedy Space Center launch complex on April 4, 1968. This unmanned Saturn V launch vehicle tested the emergency detection system in closed loop configuration. "
+  },
+  "apollo": {
+    "file": "/media/apollo.jpg",
+    "title": "Apollo 11 Lunar Module",
+    "credit": "NASA",
+    "source": "https://images.nasa.gov/details/624073main_1969-04-04_full",
+    "description": "The Lunar Module for Apollo 11 moves from the landing gear fixture and mate to the spacecraft-lunar module adapter."
+  },
+  "salyut": {
+    "file": "/media/salyut.jpg",
+    "title": "jsc2014e042126",
+    "credit": "JSC",
+    "source": "https://images.nasa.gov/details/jsc2014e042126",
+    "description": "0937:  At the Gagarin Cosmonaut Training Center in Star City, Russia, Expedition 40/41 Flight Engineer Reid Wiseman of NASA admires a model of the old Russian Salyut space station at the Gagarin Museum May 8 as he and his crewmates enter the final weeks of their pre-launch training. Wiseman, Alexander Gerst of the European Space Agency and Max Suraev of the Russian Federal Space Agency (Roscosmos) are preparing for launch May 29, Kazakh time, in the Soyuz TMA-13M spacecraft from the Baikonur Cosmodrome in Kazakhstan for a 5 \u00bd month mission on the International Space Station.  NASA/Stephanie Stoll "
+  },
+  "skylab": {
+    "file": "/media/skylab.jpg",
+    "title": "View of the Skylab space station cluster photographed against black sky",
+    "credit": "JSC",
+    "source": "https://images.nasa.gov/details/sl3-114-1682",
+    "description": "SL3-114-1682 (28 July 1973) --- A close-up view of the Skylab Space Station photographed against an Earth background from the Skylab 3 Command and Service Modules (CSM) during station-keeping maneuvers prior to docking.  Aboard the Command Module (CM) were astronauts Alan L. Bean, Owen K. Garriott and Jack R. Lousma, who remained with the Skylab Space Station in Earth orbit for 59 days. This picture was taken with a hand-held 70mm Hasselblad camera using a 100mm lens and SO-368 medium speed Ektachrome film. Photo credit: NASA"
+  },
+  "voyager": {
+    "file": "/media/voyager.jpg",
+    "title": "Voyager Proof Test Model",
+    "credit": "JPL",
+    "source": "https://images.nasa.gov/details/PIA21477",
+    "description": "This archival photo shows the Voyager Proof Test Model undergoing a mechanical preparation and weight center of gravity test at NASA's Jet Propulsion Laboratory, Pasadena, California, on January 12, 1977. The stack of three white cylinders seen near center is a stand-in for the spacecraft's power generators (called RTGs). Above that, a silvery canister holds the spacecraft's magnetometer in its stowed configuration.  https://photojournal.jpl.nasa.gov/catalog/PIA21477"
+  },
+  "shuttle": {
+    "file": "/media/shuttle.jpg",
+    "title": "STS-120 Space shuttle Discovery launches from Pad 39A",
+    "credit": "NASA",
+    "source": "https://images.nasa.gov/details/KSC-07PD-2949",
+    "description": "From the roof of the Vehicle Assembly Building at NASA's Kennedy Space Center, space shuttle Discovery rivals the sun as it soars through the clouds toward space. Liftoff was on time at 11:38:19 a.m. EDT. Discovery carries the Italian-built U.S. Node 2, called Harmony. During the 14-day STS-120 mission, the crew will install Harmony and move the P6 solar arrays to their permanent position and deploy them. Discovery is expected to complete its mission and return home at 4:47 a.m. EST on Nov. 6. "
+  },
+  "mir": {
+    "file": "/media/mir.jpg",
+    "title": "Mir space station as seen from STS-63 Discovery",
+    "credit": "JSC",
+    "source": "https://images.nasa.gov/details/sts063-708-095",
+    "description": "STS063-708-095 (6 Feb 1995) --- Cumulus and other clouds over the ocean form the backdrop for this scene of Russia's Mir space station during rendezvous operations by the Space Shuttle Discovery and Mir.  This photograph was taken as the Discovery was firing its Reaction Control Subsystem (RCS) thrusters to separate from Mir's proximity.  Onboard the Discovery were astronauts James D. Wetherbee, mission commander; Eileen M. Collins, pilot; Bernard A. Harris Jr., payload commander; mission specialists Janice Voss and C. Michael Foale; along with Russian cosmonaut Vladimir G. Titov.        EDITOR'S NOTE: This 70mm handheld Hasselblad frame has been cropped to enlarge Mir."
+  },
+  "hubble": {
+    "file": "/media/hubble.jpg",
+    "title": "Onboard view from STS-61 of the Hubble Space Telescope and moon together",
+    "credit": "JSC",
+    "source": "https://images.nasa.gov/details/sts061-57-021",
+    "description": "STS061-57-021 (2-12 Dec 1993) --- This scene, captured with a 35mm camera from inside the Space Shuttle Endeavour, shows the Earth-orbiting Hubble Space Telescope (HST) and the Moon together."
+  },
+  "iss": {
+    "file": "/media/iss.jpg",
+    "title": "Full view of the ISS taken during STS-110's docking approach",
+    "credit": "JSC",
+    "source": "https://images.nasa.gov/details/s110e5075",
+    "description": "STS110-E-5075 (9 April 2002) --- Backdropped by the blackness of space, this full view of the International Space Station (ISS) was photographed by a STS-110 crewmember with a digital still camera during the docking approach."
+  },
+  "shenzhou": {
+    "file": "/media/shenzhou.jpg",
+    "title": "Shenzhou 5 return capsule, National Museum of China",
+    "credit": "Shujianyang",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Shenzhou-5_return_capsule_at_NMC.jpg"
+  },
+  "falcon": {
+    "file": "/media/falcon.jpg",
+    "title": "Falcon 9 Landing Following NASA\u2019s SpaceX Crew-12 Launch",
+    "credit": "NASA/John Kraus",
+    "source": "https://images.nasa.gov/details/NHQ20260213_admin_0009",
+    "description": "The first stage of a SpaceX Falcon 9 rocket lands at Landing Zone 40, Friday, Feb. 13, 2026, at Cape Canaveral Space Force Station in Florida. The Falcon 9 first stage supported the launch of NASA\u2019s SpaceX Crew-12 mission to the International Space Station with NASA astronauts Jessica Meir, Jack Hathaway, ESA (European Space Agency) astronaut Sophie Adenot, and Roscosmos cosmonaut Andrey Fedyaev. NASA\u2019s SpaceX Crew-12 mission is the twelfth crew rotation mission of the SpaceX Falcon 9 rocket and Dragon spacecraft to the International Space Station as part of the agency\u2019s Commercial Crew Program. Meir, Hathaway, Adenot, and launched at 5:15 a.m. EST from Space Launch Complex 40 at the Cape Canaveral Space Force Station to begin their mission aboard the orbital outpost. Photo Credit: (NASA/John Kraus)"
+  },
+  "curiosity": {
+    "file": "/media/curiosity.jpg",
+    "title": "Curiosity Self-Portrait at Okoruso Drill Hole",
+    "credit": "JPL",
+    "source": "https://images.nasa.gov/details/PIA20602",
+    "description": "This self-portrait of NASA's Curiosity Mars rover shows the vehicle at a drilled sample site called \"Okoruso,\" on the \"Naukluft Plateau\" of lower Mount Sharp. The scene combines multiple images taken with the rover's Mars Hand Lens Imager (MAHLI) on May 11, 2016, during the 1,338th Martian day, or sol, of the rover's work on Mars.  In front of the rover is the hole, surrounded by grayish drill cuttings, created by using Curiosity's drill to collect sample rock powder at Okoruo, plus a patch of powder dumped onto the ground after delivery of a portion to the rover's internal Chemistry and Mineralogy (CheMin) laboratory instrument.  The rover team compared the rock powder from drilling at Okoruso to material from the nearby \"Lubango\" drilling site, which is visible behind the rover, just to the left of the mast. The Lubango site was selected within a pale zone, or \"halo,\" beside a fracture in the area's sandstone bedrock. Okoruso is in less-altered bedrock farther from any fractures. Note that the Okoruso drill cuttings appear darker than the Lubango drill cuttings. The Lubango sample was found to be enriched in silica and sulfates, relative to Okoruso.  To the left of the rover, in this scene, several broken rocks reveal grayish interiors. Here, Curiosity was driven over the rocks in a fracture-associated halo, so that freshly exposed surfaces could be examined with MAHLI, Mast Camera (Mastcam) and Chemistry and Camera (ChemCam) instruments.  An upper portion of Mount Sharp is prominent on the horizon.  http://photojournal.jpl.nasa.gov/catalog/PIA20602"
+  },
+  "dragon": {
+    "file": "/media/dragon.jpg",
+    "title": "SpaceX Demo-2 Liftoff",
+    "credit": "NASA/Tony Gray and Tim Powers",
+    "source": "https://images.nasa.gov/details/KSC-20200530-PH-AWG09_0024",
+    "description": "A SpaceX Falcon 9 rocket and Crew Dragon spacecraft lifts off from Launch Complex 39A at NASA\u2019s Kennedy Space Center in Florida on May 30, 2020, carrying NASA astronauts Robert Behnken and Douglas Hurley to the International Space Station for the agency\u2019s SpaceX Demo-2 mission. Liftoff occurred at 3:22 p.m. EDT. Behnken and Hurley are the first astronauts to launch from U.S. soil to the space station since the end of the Space Shuttle Program in 2011. Part of NASA\u2019s Commercial Crew Program, this will be SpaceX\u2019s final flight test, paving the way for the agency to certify the crew transportation system for regular, crewed flights to the orbiting laboratory."
+  },
+  "tiangong": {
+    "file": "/media/tiangong.jpg",
+    "title": "Tiangong, rear view",
+    "credit": "China Manned Space Engineering Office",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Rear_view_of_Tiangong_Space_Station.jpg"
+  },
+  "webb": {
+    "file": "/media/webb.jpg",
+    "title": "NASA's James Webb Space Telescope Primary Mirror Fully Assembled",
+    "credit": "GSFC",
+    "source": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000422",
+    "description": "The 18th and final primary mirror segment is installed on what will be the biggest and most powerful space telescope ever launched. The final mirror installation Wednesday at NASA\u2019s Goddard Space Flight Center in Greenbelt, Maryland marks an important milestone in the assembly of the agency\u2019s James Webb Space Telescope.  \u201cScientists and engineers have been working tirelessly to install these incredible, nearly perfect mirrors that will focus light from previously hidden realms of planetary atmospheres, star forming regions and the very beginnings of the Universe,\u201d said John Grunsfeld, associate administrator for NASA\u2019s Science Mission Directorate in Washington. \u201cWith the mirrors finally complete, we are one step closer to the audacious observations that will unravel the mysteries of the Universe.\u201d  Using a robotic arm reminiscent of a claw machine, the team meticulously installed all of Webb's primary mirror segments onto the telescope structure. Each of the hexagonal-shaped mirror segments measures just over 4.2 feet (1.3 meters) across -- about the size of a coffee table -- and weighs approximately 88 pounds (40 kilograms). Once in space and fully deployed, the 18 primary mirror segments will work together as one large 21.3-foot diameter (6.5-meter) mirror.  Credit: NASA/Goddard/Chris Gunn  Credits: NASA/Chris Gunn"
+  },
+  "artemis": {
+    "file": "/media/artemis.jpg",
+    "title": "Artemis I Launch",
+    "credit": "NASA/Joel Kowsky",
+    "source": "https://images.nasa.gov/details/NHQ202211160030",
+    "description": "NASA\u2019s Space Launch System rocket carrying the Orion spacecraft launches on the Artemis I flight test, Wednesday, Nov. 16, 2022, from Launch Complex 39B at NASA\u2019s Kennedy Space Center in Florida. NASA\u2019s Artemis I mission is the first integrated flight test of the agency\u2019s deep space exploration systems: the Orion spacecraft, Space Launch System (SLS) rocket, and ground systems. SLS and Orion launched at 1:47 a.m. EST, from Launch Pad 39B at the Kennedy Space Center. Photo Credit: (NASA/Joel Kowsky)"
+  },
+  "hero": {
+    "file": "/media/hero.jpg",
+    "title": "Earth atmospheric glow from ISS",
+    "credit": "NASA",
+    "source": "https://images.nasa.gov/details/iss072e724819"
+  }
+}

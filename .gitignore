@@ -1,0 +1,7 @@
+node_modules/
+dist/
+*.tsbuildinfo
+test-results/
+.pnpm-store/
+
+.tools/
