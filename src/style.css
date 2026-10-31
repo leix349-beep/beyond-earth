@@ -76,3 +76,5 @@ h1{font-optical-sizing:auto;letter-spacing:-.055em;line-height:.9}
  .mission-chapters p{font-size:14px;line-height:1.85}.mission-question>h3{font-size:34px}.mission-check h4{font-size:26px}
  .mission-facts strong{font-size:16px}.where>p{font-size:26px}.closing h2{font-size:59px}
 }
+
+.mission-chapters>article:last-child{grid-column:auto;max-width:none}
