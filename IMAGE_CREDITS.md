@@ -40,3 +40,7 @@ This independent student demo is not affiliated with NASA, CMSA, or McKinsey.
 - `audio/space-1990.mp3`: **"Space 1990" Kevin MacLeod (incompetech.com). Licensed under Creative Commons: By Attribution 4.0 License.** [Track and attribution](https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1200108), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Source MP3 retained without editing; playback volume is adjusted. Used as optional background music. Include this credit in any public demo video description that uses the track.
 
 No Star Trek recording or theme is bundled. No synthetic speech or voice clone is used in the current experience. The earlier guide WAVs are removed.
+
+## Fonts
+
+Newsreader, DM Sans, and IBM Plex Mono are distributed from the [Google Fonts repository](https://github.com/google/fonts) under their bundled SIL Open Font Licenses. See `public/fonts/*-OFL.txt`.

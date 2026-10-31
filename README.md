@@ -1,5 +1,7 @@
 # Beyond Earth / SpaceTime
 
+[Open the website](https://beyond-earth-spacetime.genialconch.chatgpt.site) · [Source on GitHub](https://github.com/leix349-beep/beyond-earth)
+
 A curated interactive history of spaceflight. React 19 + TypeScript + Vite, with responsive custom CSS (no Tailwind dependency). All 20 historical records, archive photographs, and Earth textures are local. Three.js renders the globe and flight scenes; Lenis provides damped wheel scrolling. Bundled data, recorded mission films, music and images work offline. The development server also provides an optional orbit-refresh endpoint; no API key is required.
 
 ## Run
@@ -107,3 +109,7 @@ The core experience and cached orbital predictions need no backend or API key. `
 ## Devpost assets
 
 `submission/DEVPOST_DRAFT.md` contains the project name, pitch and public story. `submission/DEMO_SCRIPT.md` describes the 1–2 minute running-app demo. Generated 3:2 PNG images are under `submission/`; the project demo must be uploaded to YouTube or Vimeo before its URL can be entered. A local file is not a submitted video and localhost is not a public demo. No GitHub remote is configured in this workspace. Main Challenge alignment, track and the exact on-site code must be confirmed by the participant.
+
+## Typography
+
+Newsreader for large titles and reading headings, DM Sans for body text and controls, IBM Plex Mono for dates and flight labels. Font files are bundled locally with their SIL Open Font Licenses in `public/fonts/`. Sources: [Google Fonts](https://github.com/google/fonts).
