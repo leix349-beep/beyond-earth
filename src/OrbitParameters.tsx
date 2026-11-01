@@ -1,4 +1,9 @@
 import type {OrbitTrack} from './orbit';
+const historical:Record<string,{values:[string,string][];source:string;note:string}>={
+ skylab:{values:[['About 435 km','Reference altitude'],['50°','Orbital inclination'],['About 93 min','One revolution']],source:'https://heasarc.gsfc.nasa.gov/docs/heasarc/missions/skylab.html',note:'NASA’s mission summary describes this operating orbit. The altitude changed over the station’s lifetime, especially before reentry.'},
+ explorer:{values:[['354 km','Closest approach · NASA fast facts'],['2,515 km','Farthest point · NASA fast facts'],['114.8 min','Period after launch']],source:'https://www.nasa.gov/missions/explorer/explorer-1-fast-facts/',note:'Explorer 1 followed an elongated orbit. These are the historical reference figures in NASA’s fast facts, not current orbital elements.'}
+};
+export function HistoricalOrbitReference({id}:{id:string}){const reference=historical[id];return reference?<section className="orbit-parameters"><h3>The historical orbit</h3><div className="parameter-grid">{reference.values.map(([value,label])=><div key={label}><strong>{value}</strong><span>{label}</span></div>)}</div><p>{reference.note} The replay above is a schematic path with compressed scale and time; these reference numbers are not simulated telemetry.</p><a href={reference.source} target="_blank" rel="noreferrer">NASA mission reference ↗</a></section>:null}
 export function OrbitParameters({track}:{track:OrbitTrack}){
  const line=track.record.line2;
  const inclination=Number(line.slice(8,16));const eccentricity=Number('0.'+line.slice(26,33).trim());const meanMotion=Number(line.slice(52,63));const raan=Number(line.slice(17,25));

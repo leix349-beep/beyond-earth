@@ -11,7 +11,7 @@ const {chromium}=require(process.env.PLAYWRIGHT_MODULE||'playwright');
   const fonts=await page.evaluate(()=>({display:document.fonts.check('48px Newsreader'),body:document.fonts.check('16px "DM Sans"'),mono:document.fonts.check('12px "Plex Mono"')}));
   if(Object.values(fonts).some(v=>!v))throw Error('Missing local font '+JSON.stringify(fonts));
   await page.getByRole('button',{name:/Leaving Earth NASA mission film/}).click();
-  await page.getByRole('button',{name:/Play with mission audio/}).click();
+  await page.getByRole('button',{name:'Play film',exact:true}).first().click();
   await page.waitForFunction(()=>document.querySelector('.cinema video')?.currentTime>0,{},{timeout:30000});
   await page.getByRole('button',{name:'Close mission cinema'}).click();
   await page.getByRole('textbox',{name:'Search missions'}).fill('Apollo 11');
