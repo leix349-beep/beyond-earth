@@ -44,3 +44,7 @@ No Star Trek recording or theme is bundled. No synthetic speech or voice clone i
 ## Fonts
 
 Newsreader, DM Sans, and IBM Plex Mono are distributed from the [Google Fonts repository](https://github.com/google/fonts) under their bundled SIL Open Font Licenses. See `public/fonts/*-OFL.txt`.
+
+## Mission-specific film excerpts
+
+Additional NASA source titles, original download URLs, and descriptions are stored in `public/data/film-sources.json`. Original recorded sound is retained. Most excerpts use the opening two minutes, or the whole film if shorter. Webb uses source 00:20–02:20 and is identified as a pre-launch visualization. Saturn V uses the launch segment of the existing Apollo 11 archive edit. Falcon 9 uses the existing 15-second Demo-2 liftoff clip. The Skylab anniversary candidate was not bundled because its credits identify third-party production music.

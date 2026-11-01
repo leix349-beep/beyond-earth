@@ -78,3 +78,22 @@ h1{font-optical-sizing:auto;letter-spacing:-.055em;line-height:.9}
 }
 
 .mission-chapters>article:last-child{grid-column:auto;max-width:none}
+
+/* Media controls stay visible; controls have proper pointer and touch targets. */
+.cinema-top{z-index:6}.cinema-bottom{z-index:5;opacity:1!important;pointer-events:auto!important;background:linear-gradient(transparent,#03080fed 30%);padding-top:22px}
+.cinema-intro{top:22%;max-width:800px}.cinema-intro h2{font-size:clamp(40px,5.5vw,78px);letter-spacing:-2px}
+.cinema-now{top:15%;pointer-events:none}.cinema-now h2{font-size:clamp(25px,3vw,42px)}
+.cinema-context{z-index:3;pointer-events:none}.cinema-context p{margin:0}.cinema-transport button{min-width:40px;min-height:40px;font-size:13px}
+.cinema-transport>time{font-size:13px}.cinema-bottom input[type=range]{height:26px;margin:15px 0 10px;touch-action:none;cursor:pointer;accent-color:#d7c298}
+.cinema-chapters{overflow-x:auto;justify-content:flex-start;gap:24px}.cinema-chapters>button{min-height:44px;font-size:13px;flex:1;padding:12px 0;text-align:left}
+.cinema-error{z-index:8;top:35%;bottom:auto;left:8%;right:8%;font-size:16px}.cinema-error button{padding:10px 15px;border:1px solid #d5c098;margin-left:15px}
+.film-select{display:flex;align-items:center;gap:14px;font-size:13px;color:#b4c6d3;min-width:0}
+.film-select select{font:15px var(--body);color:#f1e9db;background:#0b1a26;border:1px solid #637987;border-radius:5px;padding:11px 35px 11px 14px;max-width:440px;width:100%}
+.film-credit{font-size:12px;color:#91a8ba;margin-top:10px;max-width:850px}.film-credit summary{cursor:pointer;width:max-content;padding:4px 0}.film-credit p{font-size:12px;line-height:1.6;margin:8px 0}
+.film-loading-note{font-size:13px!important;color:#adc0cd!important;max-width:400px}.cinema button:disabled,.cinema input:disabled{opacity:.45;cursor:wait}
+.film-library-grid{display:flex;gap:22px;overflow-x:auto;scroll-snap-type:x mandatory;padding-bottom:18px}.film-library-grid>button{flex:0 0 310px;scroll-snap-align:start}.film-library-grid h3{font-size:27px;line-height:1.15}
+.mission-chapters>article:first-child h4{grid-column:1;grid-row:1}.mission-chapters>article:first-child p{grid-column:2;grid-row:1}
+.mission-chapters>article{padding-top:24px}.mission-chapters>article h4{margin-bottom:14px}
+.orbit-parameters{padding:25px;background:#0b1825;border-top:1px solid #ffffff20}.orbit-parameters h3{font:28px var(--display);margin:0 0 18px}.parameter-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:22px}.parameter-grid strong{display:block;font-size:20px;font-weight:500;color:#e5d5b9}.parameter-grid span{font-size:13px;color:#9eb6c8;display:block;margin-top:6px}.orbit-parameters>p{font-size:14px;line-height:1.8;color:#a9bfce;max-width:70ch}
+.mission-hardware{margin:35px 0;border-top:1px solid #ffffff25;padding-top:25px}.mission-hardware h3{font:32px var(--display);margin:0 0 20px}.hardware-route{display:grid;grid-template-columns:repeat(3,1fr);gap:25px}.hardware-route strong{font:22px var(--display);display:block;color:#e2d1b0}.hardware-route p{font-size:14px;line-height:1.8;color:#b5c4cf}
+@media(max-width:760px){.film-select{max-width:65%}.film-select select{font-size:12px;max-width:220px;padding:10px 8px}.film-select{font-size:0}.cinema-top>div{gap:9px}.cinema-intro{top:21%}.cinema-intro h2{font-size:42px}.cinema-intro p{font-size:14px}.cinema>video{top:9%;height:57%}.cinema-bottom{bottom:15px}.cinema-chapters>button{min-width:115px;font-size:12px;line-height:1.4;flex:auto}.cinema:has(.cinema-intro) .cinema-chapters{display:flex}.cinema-transport{gap:8px;flex-wrap:wrap}.cinema-transport button{font-size:12px}.cinema-transport>time{font-size:12px}.cinema-transport>button:nth-last-child(2){max-width:none;font-size:12px}.cinema-context{bottom:240px}.film-credit{font-size:11px}.film-library-grid>button{flex-basis:270px}.parameter-grid{grid-template-columns:1fr 1fr}.hardware-route{grid-template-columns:1fr;gap:12px}.mission-chapters>article:first-child h4,.mission-chapters>article:first-child p{grid-column:auto;grid-row:auto}}

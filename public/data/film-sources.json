@@ -1,0 +1,93 @@
+{
+  "skylab": {
+    "omitted": "Selected anniversary film includes separately licensed production music; not bundled."
+  },
+  "voyager": {
+    "id": "JPL-20240425-VOYAGEf-0001-Voyager 1 Team Reacts to Receiving Engineering Data From Spacecraft",
+    "title": "Voyager 1 Team Reacts to Receiving Engineering Data From Spacecraft",
+    "description": "B-roll for media and public use. In a conference room at NASA\u2019s Jet Propulsion Laboratory in Southern California on April 20, 2024, members of the Voyager mission team received  engineering data from the spacecraft for the first time since November 2023.   Nearly two full days earlier, the team had sent a series of commands to move a section of software code used by the flight data subsystem (FDS) computer to a new location. The physical location where the code was previously stored has been damaged, causing mission controllers to go five months without receiving science or engineering data. But the commands were a success, and the team received data about the health and status of the spacecraft, prompting celebration.  The commands were sent on April 18, 2024. Due to Voyager 1\u2019s distance from Earth \u2013 over 15 billion miles (24 billion kilometers) \u2013 a radio signal takes about 22 \u00bd hours to travel to the spacecraft, and 22 \u00bd hours to return to Earth.   Voyager 2 continues to operate normally. Launched over 46 years ago, the twin Voyager spacecraft are the longest-running and most distant spacecraft in history.    Shown are Voyager team members Kareem Badaruddin, Joey Jefferson, Jeff ",
+    "asset": "https://images-assets.nasa.gov/video/JPL-20240425-VOYAGEf-0001-Voyager 1 Team Reacts to Receiving Engineering Data From Spacecraft/JPL-20240425-VOYAGEf-0001-Voyager 1 Team Reacts to Receiving Engineering Data From Spacecraft~medium.mp4",
+    "duration": 43.75,
+    "file": "/media/film-voyager.mp4",
+    "poster": "/media/film-voyager.jpg",
+    "excerpt": "First two minutes, or full film if shorter. Original sound retained.",
+    "bytes": 3785076
+  },
+  "hubble": {
+    "id": "GSFC_20190514_HST_m13179_TTSM3B",
+    "title": "Hubble Tool Time Episode 5 - Servicing Mission 3B",
+    "description": "Retired NASA astronaut John Grunsfeld hosts this six-part mini-series about the tools used on the Hubble Space Telescope servicing missions. Hubble was uniquely designed to be serviced in space so that components could be repaired and upgraded. Astronauts using custom-designed tools performed challenging spacewalks on five servicing missions from 1993 to 2009 to keep Hubble operating so that it could change our fundamental understanding of the universe.  Join John and EVA engineer Ed Rezac in this episode of Hubble Tool Time to learn about developing a wrench-like connector tool to replace Hubble\u2019s Power Control Unit on Servicing Mission 3B in 2002.   In addition to enabling Hubble's scientific discoveries, the tools developed by teams at NASA's Goddard Space Flight Center and tested in collaboration with the Johnson Space Center furthered NASA's human exploration capabilities. These tools and the knowledge gleaned from the Hubble servicing missions are used today by astronauts on the International Space Station, and will be critical to NASA's future crewed missions to the Moon and Mars.",
+    "asset": "https://images-assets.nasa.gov/video/GSFC_20190514_HST_m13179_TTSM3B/GSFC_20190514_HST_m13179_TTSM3B~medium.mp4",
+    "duration": 120.0,
+    "file": "/media/film-hubble.mp4",
+    "poster": "/media/film-hubble.jpg",
+    "excerpt": "First two minutes, or full film if shorter. Original sound retained.",
+    "bytes": 8501996
+  },
+  "curiosity": {
+    "id": "JPL-20240912_MSLf-0001-Mars Report Communicating with Curiosity",
+    "title": "Earth to Mars: How NASA Keeps Curiosity Connected (Mars Report) ",
+    "description": "NASA\u2019s Curiosity rover is exploring a scientifically exciting area on Mars, but communicating with the mission team on Earth has recently been a challenge due to both the current season and the surrounding terrain. In this Mars Report, Curiosity engineer Reidar Larsen takes you inside the uplink room where the team talks to the rover. See why Curiosity\u2019s location in Gediz Vallis channel makes it difficult to send direct commands \u2014 and how the team ensures they always stay connected to the rover.  Curiosity landed in 2012 to look for evidence that Mars\u2019 Gale Crater had the conditions to support microbial life in the ancient past. Curiosity has confirmed those conditions existed on the crater floor as well as on various parts of Mount Sharp, the 3-mile-tall (5-kilometer-tall) mountain within the crater that the rover has been ascending since 2014.   For more about Curiosity, visit: https://science.nasa.gov/mission/msl-curiosity/.  Credit: NASA/JPL-Caltech/MSSS/University of Arizona/UC Berkeley  ",
+    "asset": "https://images-assets.nasa.gov/video/JPL-20240912_MSLf-0001-Mars Report Communicating with Curiosity/JPL-20240912_MSLf-0001-Mars Report Communicating with Curiosity~medium.mp4",
+    "duration": 119.77000000000001,
+    "file": "/media/film-curiosity.mp4",
+    "poster": "/media/film-curiosity.jpg",
+    "excerpt": "First two minutes, or full film if shorter. Original sound retained.",
+    "bytes": 9979093
+  },
+  "artemis": {
+    "id": "Artemis I Launches to the Moon (Official NASA Recap)",
+    "title": "Artemis I Launches to the Moon (Official NASA Recap)",
+    "description": "NASA\u2019s Artemis I mission lifted off on Nov. 16, 2022 from Kennedy Space Center\u2019s Launch Complex 39B. This video includes highlights from the event.   With 8.8 million pounds of thrust, the Space Launch System (SLS), is NASA\u2019s most powerful rocket. It will send the uncrewed Orion spacecraft beyond the Moon, 280,000 miles from Earth, farther than any human-rated spacecraft has ever flown.   After26 days and a total distance of over a million miles, Orion will return home faster and hotter than any spacecraft has before.   The primary goals for Artemis I are to demonstrate Orion\u2019s systems in a spaceflight environment and ensure a safe re-entry, descent, splashdown, and recovery prior to the first flight with crew on Artemis II.   The first in a series of increasingly complex missions, Artemis I will demonstrate our commitment and capability to build a long-term human presence at the Moon for decades to come.   Learn more at: https://www.nasa.gov/specials/artemis-i/",
+    "asset": "https://images-assets.nasa.gov/video/Artemis I Launches to the Moon (Official NASA Recap)/Artemis I Launches to the Moon (Official NASA Recap)~medium.mp4",
+    "duration": 120.0,
+    "file": "/media/film-artemis.mp4",
+    "poster": "/media/film-artemis.jpg",
+    "excerpt": "First two minutes, or full film if shorter. Original sound retained.",
+    "bytes": 7523705
+  },
+  "explorer": {
+    "id": "GSFC_20180129_Explorer1_m12837_60yrs1",
+    "title": "Explorer 1: Celebrating 60 Years of America in Space",
+    "description": "Less than a lifetime ago, humankind just barely left the limits of Earth\u2019s atmosphere. Who could have imagined that only 60 years later we would be touching the surface of the Sun, arriving at the most distant object humans have ever explored, and soon to be launching the world\u2019s most powerful telescope to get a glimpse of the first galaxies born after the Big Bang? As NASA celebrates the 60th Anniversary of Explorer 1, the satellite that blazed the way for hundreds of missions to follow, some of the most ambitions explorations are yet to come.",
+    "asset": "https://images-assets.nasa.gov/video/GSFC_20180129_Explorer1_m12837_60yrs1/GSFC_20180129_Explorer1_m12837_60yrs1~medium.mp4",
+    "duration": 74.5,
+    "file": "/media/film-explorer.mp4",
+    "poster": "/media/film-explorer.jpg",
+    "excerpt": "First two minutes, or full film if shorter. Original sound retained.",
+    "bytes": 6213523
+  },
+  "webb": {
+    "id": "1511201_JWST_L-D_Apvd_Final",
+    "title": "Webb Telescope Launch and Deploy (12-minute)",
+    "description": "Produced and narrated 12-minute video showing the James Webb Space Telescope's launch and deploy process.",
+    "asset": "https://images-assets.nasa.gov/video/1511201_JWST_L-D_Apvd_Final/1511201_JWST_L-D_Apvd_Final~medium.mp4",
+    "duration": 120.0,
+    "file": "/media/film-webb.mp4",
+    "poster": "/media/film-webb.jpg",
+    "excerpt": "First two minutes, or full film if shorter. Original sound retained.",
+    "bytes": 7782101
+  },
+  "shuttle": {
+    "id": "NHQ_2021_0708_NASA's Final Space Shuttle Launch 10th Anniversary Replay",
+    "title": "NASA's Final Space Shuttle Launch 10th Anniversary Replay",
+    "description": "Ten years ago, Atlantis rose from the launch pad on a plume of fire and parted the high clouds on its way to the International Space Station and to its place in history. The 11:29 a.m. EDT liftoff on July 8, 2011, marked the last time a space shuttle would climb from Kennedy's seaside launch complex to soar toward the heavens.   The crew of four veteran astronauts aboard Atlantis -- Commander Chris Ferguson, Pilot Doug Hurley, and Mission Specialists Sandy Magnus and Rex Walheim -- set off on the STS-135 mission to deliver a stockpile of supplies and parts to the space station.",
+    "asset": "https://images-assets.nasa.gov/video/NHQ_2021_0708_NASA's Final Space Shuttle Launch 10th Anniversary Replay/NHQ_2021_0708_NASA's Final Space Shuttle Launch 10th Anniversary Replay~medium.mp4",
+    "duration": 120.0,
+    "file": "/media/film-shuttle.mp4",
+    "poster": "/media/film-shuttle.jpg",
+    "excerpt": "First two minutes, or full film if shorter. Original sound retained.",
+    "bytes": 10837949
+  },
+  "mir": {
+    "id": "ksc_062408_itow_foale3",
+    "title": "KSC-08-S-00053",
+    "description": "In Their Own Words: NASA Astronaut Michael Foale. A veteran of six space flights talks about being an astronaut and living aboard both the International Space Station and Mir.",
+    "asset": "https://images-assets.nasa.gov/video/ksc_062408_itow_foale3/ksc_062408_itow_foale3~mobile.mp4",
+    "duration": 120.0,
+    "file": "/media/film-mir.mp4",
+    "poster": "/media/film-mir.jpg",
+    "excerpt": "First two minutes, or full film if shorter. Original sound retained.",
+    "bytes": 8186030
+  }
+}

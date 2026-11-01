@@ -113,3 +113,13 @@ The core experience and cached orbital predictions need no backend or API key. `
 ## Typography
 
 Newsreader for large titles and reading headings, DM Sans for body text and controls, IBM Plex Mono for dates and flight labels. Font files are bundled locally with their SIL Open Font Licenses in `public/fonts/`. Sources: [Google Fonts](https://github.com/google/fonts).
+
+## Cinema reliability update
+
+14 locally hosted films are mapped explicitly to 13 mission records. Other missions have no video shortcut. Film lookup never silently falls back to another mission. Each film is fully buffered into a temporary Blob URL before playback, because the current static host returns HTTP 200 instead of HTTP 206 for Range requests. A progress indicator, retry, source link, and abort-on-switch keep that behavior visible. This uses more up-front bandwidth than range streaming; a range-capable video CDN would remove that tradeoff.
+
+The new NASA excerpts cover Voyager’s 2024 engineering-data reception, Hubble servicing tools, Curiosity communications, Artemis I launch highlights, Explorer 1’s legacy, Webb launch visualization, STS-135 preparations, and Michael Foale’s recollections of Mir and ISS. Excerpts are labeled; Webb is an animation, and the Shuttle clip shows preparations rather than the whole launch. Source manifest: `public/data/film-sources.json`.
+
+`OrbitParameters` reads inclination, eccentricity, ascending node, and mean motion from the TLE with SGP4 period and epoch shown alongside. Historical illustrations do not claim measured launch telemetry. Hardware stories follow the separate components of all 20 records.
+
+Regression: `scripts/test-cinema-v2.cjs` checks all 14 films, actual seekable ranges, back/forward movement, chapter seek, pointer dragging, mission mapping, orbit parameters, and mobile layout. `scripts/test-cinema-recovery.cjs` checks download failure/retry and fast switching. Set `PLAYWRIGHT_MODULE`, `CHROME_PATH`, and optionally `REVIEW_URL` for the installed browser/runtime.
